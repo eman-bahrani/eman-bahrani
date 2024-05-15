@@ -19,7 +19,7 @@ Here are some of the languages and tools I frequently work with:
 
 ### Statistical Software
 - [SPSS](https://www.ibm.com/products/spss-statistics): Statistical analysis software commonly used in social sciences and healthcare research.
-- [Excel]: Spreadsheet software for data manipulation, analysis, and visualization.
+- [Excel](https://www.microsoft.com/en/microsoft-365/excel): Spreadsheet software for data manipulation, analysis, and visualization.
 
 ## Projects
 
