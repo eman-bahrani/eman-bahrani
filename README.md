@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eman, a passionate data scientist with a keen interest in computational genomics and bioinformatics. !
+I'm Eman, a passionate data scientist with a keen interest in computational genomics and bioinformatics. 
 
 ## Languages and Tools
 
@@ -25,7 +25,7 @@ Here are some of the languages and tools I frequently work with:
 
 Here are some of the projects I've been working on:
 
-- Bioinformatics projects
+- Bioinformatics projects (NGS, RNA-seq, Chip-seq)
 - Expanding this profile intro
 - Data analysis projects
 - Cleaning the code of exisitng projects
