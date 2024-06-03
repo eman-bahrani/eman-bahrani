@@ -25,7 +25,7 @@ Here are some of the languages and tools I frequently work with:
 
 Here are some of the projects I've been working on:
 
-- Bioinformatics projects (NGS, RNA-seq, Chip-seq)
+- Bioinformatics projects (NGS, RNA-seq, Chip-, TempO-Seq)
 - Expanding this profile intro
 - Data analysis projects
 - Cleaning the code of exisitng projects
