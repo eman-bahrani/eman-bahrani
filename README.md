@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eman, a passionate data scientist with a keen interest in computational genomics and bioinformatics. 
+I'm Eman, a data scientist with an interest in computational genomics and bioinformatics. 
 
 ## Languages and Tools
 
