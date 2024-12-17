@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eman, a data scientist with an interest in computational genomics and bioinformatics. 
+I'm Eman, a data scientist with an interest in bioinformatics and precision public health. 
 
 ## Languages and Tools
 
@@ -25,6 +25,7 @@ Here are some of the languages and tools I frequently work with:
 
 Here are some of the projects I've been working on:
 
+- Precision Public Health Platform
 - Bioinformatics projects (NGS, RNA-seq, Chip-, TempO-Seq)
 - Expanding this profile intro
 - Data analysis projects
