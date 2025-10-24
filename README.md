@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Eman, a data scientist with an interest in bioinformatics and precision public health. 
+I'm Eman, a PhD candidate at QUB, interested in precision public health. 
 
 ## Languages and Tools
 
-Here are some of the languages and tools I frequently work with:
+Here are some of the languages and tools I work with:
 
 ### Programming Languages
 - [Python3](https://www.python.org/): Primary language for data analysis and scripting.
@@ -29,6 +29,5 @@ Here are some of the projects I've been working on:
 - Bioinformatics projects (NGS, RNA-seq, Chip-, TempO-Seq)
 - Expanding this profile intro
 - Data analysis projects
-- Cleaning the code of exisitng projects
 
 
